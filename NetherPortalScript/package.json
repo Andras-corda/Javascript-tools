@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "gifencoder": "^2.0.1"
+  }
+}
