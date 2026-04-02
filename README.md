@@ -7,17 +7,6 @@
 
 ---
 
-<div align="center">
-
-**Link**
-
-
-[Homepage](https://github.com/TON_USER/TON_REPO) • [Try it](https://github.com/TON_USER/TON_REPO/tree/main/demo) •[Discussion](https://github.com/TON_USER/TON_REPO/discussions) • [Documents](https://github.com/TON_USER/TON_REPO/tree/main/docs) • [Download](https://github.com/TON_USER/TON_REPO/releases) • [Telegram](#) • [Discord](#)
-
-</div>
-
----
-
 # Scripts with web-interface
 
 
@@ -25,12 +14,12 @@
 
 # scripts with console-interface
 
-### [Nether Portal Spiral générator]([#](https://github.com/Andras-corda/Javascript-tools/tree/main/NetherPortalScript)) 
+### [Nether Portal Spiral générator](https://github.com/Andras-corda/Javascript-tools/tree/main/NetherPortalScript) 
 **Goal**: Generate a looping spiral/portal animation and export it in 3 formats: individual PNG frames, an animated GIF, and a sprite sheet.
 
 > 24 frames at 128×128px, with 50ms between each frame — giving a ~1.2s loop.
 
-### [Perlin Noise Generator](#)
+### [Perlin Noise Generator](https://github.com/Andras-corda/Javascript-tools/tree/main/PerlinNoiseScript)
 **Goal**: Generate one or more Perlin noise grayscale images from the command line, fully deterministic via a seed.
 
 | Flag | Default | Description |
